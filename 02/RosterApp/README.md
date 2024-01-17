@@ -1,5 +1,5 @@
 Summary:
-Build an application that can allow users to build a roster. One the user is done it can print out the 
+Build an application that can allow users to build a roster. Once the user is done it can print out the 
 players names and their numbers starting from 1. 
 
 TODO:
