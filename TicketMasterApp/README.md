@@ -13,7 +13,7 @@ so that I can determine if I want to purchase the tickets
 4) As a result, I should be able to confirm my order, so that I do not accidentally purchase more
 tickets than intended
 
-5)As a User, I should not be offered tickets if there aren't any available
+5) As a User, I should not be offered tickets if there aren't any available
 
 6) As a User, I should be shown the number of tickets left remaining, so I can
 understand the importance of buying now.

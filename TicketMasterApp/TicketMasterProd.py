@@ -16,6 +16,7 @@ tickets than intended
 understand the importance of buying now.
 
 7) As an owner, I should receive a service charge so that I can pay other to maintain the software
+
 """
 
 TICKET_PRICE = 10
