@@ -1,5 +1,4 @@
 """
-To-Do
 
 1) As a User, I should have a personalized experience so that I feel welcomed by the brand.
 
