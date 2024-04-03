@@ -1,0 +1,1 @@
+Summary: This application shows an example of using the built-in function random. As well touching on conditional statements if and else. This will demonstrate the use of random numbers which will display a different message every time it is run.
