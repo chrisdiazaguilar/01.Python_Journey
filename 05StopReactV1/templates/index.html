@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STOP REACT</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>STOP REACT</h1>
+        <form method="post" action="{{ url_for('check_ingredients') }}">
+            <label for="dropdown">Select a predefined allergy list:</label>
+            <select name="dropdown" id="dropdown">
+                <option value="blank"> </option>
+                <option value="fragrancemix1_1">Fragrance mix 1</option>
+                <option value="fragrancemix1_2">Fragrance mix 2</option>
+                <option value="linalool">Linalool</option>
+            </select>
+            <br><br>
+            <label for="user_list">enter you product ingredient list:</label>
+            <input type="text" id="user_list" name="user_list" required>
+            <br><br>
+            <button type="submit">Compare</button>
+        </form>
+        <p class="disclaimer">Disclaimer: The results provided are for informational purposes only and are not a substitute for professional medical advice. Always consult with a healthcare provider for medical advice, diagnosis, or treatment. If you need assistance or have any accessibility problems to report contact Cynthia at cll93848@email.vccs.edu</p>
+    </div>
+</body>
+</html>
+
