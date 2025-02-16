@@ -2,7 +2,7 @@
 
 This repository contains several mini-projects that demonstrate the fundamental concepts of **functions in Python**. These projects are designed to help beginners learn how to work with functions, including defining, calling, passing arguments, and returning values.  
 
-## 🧑‍💻 Projects Overview  
+## 🧑🏽‍💻 Projects Overview  
 
 Each project in this repository focuses on a different aspect of Python functions. They are simple, interactive, and great for learning the core concepts.
 
