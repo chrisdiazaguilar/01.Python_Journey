@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects: Basics of Functions  
+# 🐍 Python Mini Projects: Touches on Basics of Python 
 
 This repository contains several mini-projects that demonstrate the fundamental concepts of **functions in Python**. These projects are designed to help beginners learn how to work with functions, including defining, calling, passing arguments, and returning values.  
 
